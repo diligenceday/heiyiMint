@@ -6,7 +6,6 @@
 
 * [ERC标准代币](erc-dai-bi/erc.md)
 * [分红本币](erc-dai-bi/fen-hong-ben-bi.md)
-* [314协议发币教程](erc-dai-bi/314-xie-yi-fa-bi-jiao-cheng.md)
 * [LP分红代币](erc-dai-bi/lp-fen-hong-dai-bi.md)
 * [LP分红+推荐奖励](erc-dai-bi/lp-fen-hong-+-tui-jian-jiang-li.md)
 * [持币复利+推荐奖励](erc-dai-bi/chi-bi-fu-li-+-tui-jian-jiang-li.md)
