@@ -12,9 +12,6 @@
 * [Mint+底池燃烧](erc-dai-bi/mint+-di-chi-ran-shao.md)
 * [Mint+持币暴力分红](erc-dai-bi/mint+-chi-bi-bao-li-fen-hong.md)
 * [LP挖矿+推荐奖励](erc-dai-bi/lp-wa-kuang-+-tui-jian-jiang-li.md)
-* [持币分红教程](erc-dai-bi/chi-bi-fen-hong-jiao-cheng.md)
-* [手机TP钱包发币教程](erc-dai-bi/shou-ji-tp-qian-bao-fa-bi-jiao-cheng.md)
-* [合约开源教程](erc-dai-bi/he-yue-kai-yuan-jiao-cheng.md)
 
 ***
 
