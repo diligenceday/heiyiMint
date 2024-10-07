@@ -4,8 +4,6 @@ icon: sack-dollar
 
 # 持币复利+推荐奖励
 
-因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)
-
 ### 功能解释：
 
 * **持币复利**
@@ -48,7 +46,10 @@ icon: sack-dollar
   * 用来接收营销税率的钱包，如果底池是USDT池子，就获得USDT。如果底池是BNB池子，就获得BNB
 * **选择交易所**
   * 不同的链会有不同的交易平台（如ETH链有UniSwap,BSC链有PancakeSwap 等）。选择什么交易所，就去那里添加流动性。搞错了会导致机制无法执行，请注意
-* **选择底池代币**
-  * 支持选择`BNB` `USDT`等池子，多样化选择
-  *
+*   **选择底池代币**
 
+    * 支持选择`BNB` `USDT`等池子，多样化选择
+
+
+
+因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)

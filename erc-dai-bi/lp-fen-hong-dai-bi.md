@@ -33,6 +33,6 @@ icon: sack-dollar
 * **选择底池代币** :
   * 支持选择`BNB` `USDT`等池子，多样化选择
 
-### &#x20;<a href="#id-2-lian-jie-qian-bao-lao-shou-hu-lve-gai-cao-zuo" id="id-2-lian-jie-qian-bao-lao-shou-hu-lve-gai-cao-zuo"></a>
 
-&#x20;   因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)
+
+因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)

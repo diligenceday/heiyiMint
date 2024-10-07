@@ -4,8 +4,6 @@ icon: sack-dollar
 
 # LP分红+推荐奖励
 
-因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)
-
 ### 功能解释：
 
 * **LP分红**
@@ -47,5 +45,7 @@ icon: sack-dollar
 * **选择底池代币** :
   * 支持选择`BNB` `USDT`等池子，多样化选择
 
-### &#x20; <a href="#id-4-kai-guan-shuo-ming" id="id-4-kai-guan-shuo-ming"></a>
+
+
+因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)
 

@@ -4,8 +4,6 @@ icon: sack-dollar
 
 # Mint+底池燃烧
 
-因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)
-
 ### 功能解释：
 
 * **燃烧概念**
@@ -48,3 +46,6 @@ icon: sack-dollar
 * **选择底池代币** :
   * 只能现在`BNB`做池子
 
+
+
+因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)

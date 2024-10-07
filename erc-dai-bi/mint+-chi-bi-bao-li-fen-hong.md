@@ -4,8 +4,6 @@ icon: sack-dollar
 
 # Mint+持币暴力分红
 
-因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)
-
 ### 功能解释：
 
 * **暴力分红解读**
@@ -42,5 +40,7 @@ icon: sack-dollar
   * 不同的链会有不同的交易平台，BSC一般选择薄饼Pancake。选择什么交易所，就必须去那里添加流动性。搞错了会导致机制无法执行，请注意
 * **选择底池代币** :
   * 只能现在`BNB`做池子
-  *
 
+
+
+因安全原因，暂时联系客服发币  [https://t.me/heiyi](https://t.me/heiyi)
