@@ -4,8 +4,7 @@ icon: sack-dollar
 
 # ERC标准代币
 
-{% code fullWidth="true" %}
-```html
-<iframe src="https://www.baidu.com"></iframe>
-```
-{% endcode %}
+### 功能解释：
+
+&#x20;   标准代币指的是**没有任何功能**、机制的代币合约，代币创建之后默认会丢弃权限，所以也没有任何权限，是一个纯粹的、干净的、标准的合约。
+
